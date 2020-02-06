@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SplashScreen.unity
+    guid: 075bbf711ae7f7940a166f9ac7d64522
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 6a19b26d5e6472b449e67ea130131031
+  - enabled: 1
+    path: Assets/IntroScene.unity
+    guid: e6d18d344c863634d81392be4d4de7ee
+  - enabled: 1
+    path: Assets/scene001.unity
+    guid: 9f2e3fa6658597441bddca8d8dd40824
+  - enabled: 1
+    path: Assets/scene002.unity
+    guid: a02513093dc02864f87a4078e7fffd8b
+  - enabled: 1
+    path: Assets/GameOverScene.unity
+    guid: 622e59527c9b1bb4a8f3e768a8de82af
+  - enabled: 1
+    path: Assets/cutSceneToBoss.unity
+    guid: 29ebfce080d8ca5409b4098a42e52e63
+  - enabled: 1
+    path: Assets/FinalLevel.unity
+    guid: 7bdccbc5dd41a534da7d4adb2f229b2b
+  - enabled: 1
+    path: Assets/cutSceneDead.unity
+    guid: 2b2ee0fc231ee71429b6eb16d92514ce
+  - enabled: 1
+    path: Assets/cutSceneKilled.unity
+    guid: 98bce1f045cb59543b487b1415b8822d
+  - enabled: 1
+    path: Assets/Credits.unity
+    guid: cc4a6acbba263474f873bc82a62a39e1
+  m_configObjects: {}
